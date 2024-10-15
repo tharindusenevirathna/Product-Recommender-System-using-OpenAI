@@ -1,5 +1,5 @@
-Product Recommendation System
-<!-- Add an image related to your project, like a screenshot or a diagram -->
+# Product Recommendation System
+
 
 Project Overview
 This project implements a personalized product recommendation system for GlimmerGate, an online shopping platform. The system leverages OpenAI's text embedding models to suggest new products to users based on their recently viewed items. By comparing the text embeddings of viewed products with the product database, the system recommends items that align with the user's preferences, enhancing engagement and customer satisfaction.
@@ -7,9 +7,12 @@ This project implements a personalized product recommendation system for Glimmer
 Table of Contents
 Project Overview
 Technologies Used
+Installation
+Usage
 Model Workflow
 Key Features
 Results
+License
 Technologies Used
 Python: Core programming language
 OpenAI API: For generating text embeddings
@@ -18,6 +21,7 @@ Scikit-learn: For similarity calculations and PCA visualization
 Matplotlib & Seaborn: For data visualization
 Cosine Similarity: To compute similarity between products
 Jupyter Notebook: For prototyping and development
+
 
 Model Workflow
 Data Preparation: Load and preprocess the product dataset, combining relevant information using Pandas.
