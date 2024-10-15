@@ -1,6 +1,6 @@
 
 
-# Product Recommendation System
+# Product Recommendation System using OpenAI
 
 
 ## Project Overview
